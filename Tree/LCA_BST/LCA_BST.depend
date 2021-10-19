@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628078301 source:c:\users\asus\documents\c++\lca_bst\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

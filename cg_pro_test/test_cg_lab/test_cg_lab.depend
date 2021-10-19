@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1628320615 source:c:\users\asus\documents\c++\test_cg_lab\main.c
+	<GL/glut.h>
+

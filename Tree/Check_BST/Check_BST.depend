@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628512611 source:c:\users\asus\documents\c++\check_bst\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

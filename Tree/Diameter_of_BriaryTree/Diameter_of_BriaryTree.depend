@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1628283182 source:c:\users\asus\documents\c++\diameter_of_briarytree\main.cpp
+	<iostream>
+	<vector>
+	<iostream>
+	<deque>
+

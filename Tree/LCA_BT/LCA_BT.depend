@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1628193705 source:c:\users\asus\documents\c++\lca_bt\main.cpp
+	<iostream>
+	<vector>
+	<iostream>
+	<deque>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624983043 source:c:\users\asus\documents\c++\minimum_coin\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<utility>
+
